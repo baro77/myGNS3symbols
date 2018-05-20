@@ -1,2 +1,2 @@
 # myGNS3symbols
-Symbols I have made for GNS3/gns3-registry
+Symbols I have made for https://github.com/GNS3/gns3-registry
